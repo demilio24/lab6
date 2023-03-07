@@ -1,5 +1,5 @@
 #main-navbar {
-	background-color: blue;
+	background-color: #6EB5FF;
   overflow: hidden;   
 }
 
@@ -33,7 +33,7 @@
 }
 
 #main-navbar ul li a:hover {
-  background-color: #000;
+  background-color: #2E86C1;
 }
 
 #onpage{
@@ -43,7 +43,7 @@
 #sidebar{
   position: fixed;
   right: 0%;
-  background-color: red;
+  background-color: #F2F3F4;
   height: 100%;
   width: 20%;
 }
@@ -57,10 +57,10 @@
 #sidebar ul li a {
   display: block;
   padding: 15px 0;
-  color: #fff;
+  color: #000;
   text-decoration: none;
 }
 
 #sidebar ul li a:hover {
-  background-color: #000;
+  background-color: #6EB5FF;
 }
